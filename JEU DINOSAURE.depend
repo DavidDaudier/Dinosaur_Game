@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1613694425 source:c:\users\david daudier\documents\doc jeux\jeu dinosaure\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1613783398 source:c:\users\david daudier\documents\doc jeux\5.- jeu dinosaure -codeblocks\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
